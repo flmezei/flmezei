@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Flávio Eduardo Mezei 
 
-- 🔭 Estou trabalhando com Front-End | Back-End | MySql
-- 🌱 Estou estudando Laravel | Desenvolvimento Web | Engenharia da Computação
-- 😄 Pronouns: ele/dele
+- 🔭 Full stack developer
+- 🌱 Studying Laravel | Web Development | computer engineering
+- 😄 Pronouns: he/his
 
 <div align="center">
   <a href="https://github.com/flmezei">
