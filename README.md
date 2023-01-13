@@ -3,11 +3,7 @@
 <h3 align="justify-center"> - 🌱 Studying Laravel | Web Development | computer engineering</h3>
 <h3 align="justify-center"> - 😄 Pronouns: he/him</h3>
 
-<div align="center">
-  <a href="https://github.com/flmezei">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flmezei&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flmezei&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
 
 <div align="center" style="display: inline_block"><br>
 
